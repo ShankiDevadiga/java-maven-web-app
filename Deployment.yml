@@ -9,6 +9,7 @@ spec:
       app: java-web-app
   template:
     metadata:
+      name: pod1
       labels:
         app: java-web-app
     spec:
